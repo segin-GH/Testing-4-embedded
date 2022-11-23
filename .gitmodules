@@ -1,0 +1,3 @@
+[submodule "TDD-4-Embedded"]
+	path = TDD-4-Embedded
+	url = https://github.com/segin-GH/TDD-4-Embedded.git
